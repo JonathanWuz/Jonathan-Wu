@@ -83,7 +83,7 @@
 
   
       ,"page2": {
-          "title": "Week 2 - HTML Fragments",
+          "title": "Jonathan Wu's Fastpages",
           "content": "This is [Jonathan Wu’s personal blog site] for AP csp intentions. Here, I will post posts containing code, posts illustrating tool use, and even posts that’ll help me with my homework. . . This [fastpages] page (https://github.com/fastai/fastpages) automates the process of creating blog posts via GitHub Actions, so you don’t have to fuss with conversion scripts. A full list of features can be found on GitHub. . You can edit the index.html file to change this content. . Posts .",
           "url": "https://jonathanwuz.github.io/Jonathan-Wu/",
           "relUrl": "/",
