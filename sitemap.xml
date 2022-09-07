@@ -1,32 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://jonathanwuz.github.io/Jonathan-Wu/markdown/2020/01/14/test-markdown-post.html</loc>
-<lastmod>2020-01-14T00:00:00-06:00</lastmod>
-</url>
-<url>
 <loc>https://jonathanwuz.github.io/Jonathan-Wu/jupyter/2020/02/20/test.html</loc>
 <lastmod>2020-02-20T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://jonathanwuz.github.io/Jonathan-Wu/2022/08/23/My-Notes.ipynb</loc>
+<loc>https://jonathanwuz.github.io/Jonathan-Wu/(blog)/2022/08/23/My-Notes.html</loc>
 <lastmod>2022-08-23T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>https://jonathanwuz.github.io/Jonathan-Wu/2022/08/26/Python-Quiz.ipynb</loc>
+<loc>https://jonathanwuz.github.io/Jonathan-Wu/2022/08/26/Python-Quiz.html</loc>
 <lastmod>2022-08-26T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>https://jonathanwuz.github.io/Jonathan-Wu/2022/08/30/Bash.ipynb</loc>
+<loc>https://jonathanwuz.github.io/Jonathan-Wu/2022/08/30/Bash.html</loc>
 <lastmod>2022-08-30T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>https://jonathanwuz.github.io/Jonathan-Wu/2022/08/31/HTML-Table.html</loc>
-<lastmod>2022-08-31T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>https://jonathanwuz.github.io/Jonathan-Wu/2022/09/02/Dictionaries.ipynb</loc>
-<lastmod>2022-09-02T00:00:00-05:00</lastmod>
 </url>
 <url>
 <loc>https://jonathanwuz.github.io/Jonathan-Wu/about/</loc>
