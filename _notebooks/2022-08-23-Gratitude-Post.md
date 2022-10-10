@@ -25,7 +25,7 @@ What I'm grateful for:
 2. My Parents and the work they have done to support me
 3. My friends at school
 4. Air conditioning; Especially during these hot summer days
-5. Tacos, the best food in the world
+5. Burritos, the best food in the world
 
 
 ## Footnotes
