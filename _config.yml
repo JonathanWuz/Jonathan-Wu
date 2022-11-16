@@ -37,11 +37,6 @@ url: "https://JonathanWuz.github.io" # the base hostname & protocol for your sit
 baseurl: "/Jonathan-Wu" # the subpath of your site, e.g. "/blog".
 
 # Github and twitter are optional:
-minima:
-  social_links:
-    twitter: Jojo
-    github: JonathanWuz
-    youtube_channel: rice4eva
 
 # Set this to true to get LaTeX math equation support
 use_math: 
@@ -83,7 +78,7 @@ html_escape:
 
 # Everything below here should be left alone. Modifications may break fastpages
 future: true
-theme: minima
+remote_theme: jekyll/minima@<insert-commit-hash_or_tag>
 plugins:
   - jekyll-feed
   - jekyll-gist
